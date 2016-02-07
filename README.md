@@ -1,5 +1,6 @@
 # team-work
 Group Projects
-
--Create a branch for each assignment</br>
--upload assignment file
+<ul>
+<li>Create a branch for each assignment</li>
+<li>upload assignment file</li>
+</ul>
