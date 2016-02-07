@@ -1,0 +1,65 @@
+Outside of Class Assignment  (#3) (100pts)
+Reading & Writing practice: User Stories and Your Project
+CS 3398, Spring 2016
+Due: Monday, February 8 at start of class.
+
+Reading:
+•	Read the following web links and then answer the questions below.  Question 4 requires team collaboration.
+o	Introduction to Software Engineering
+o	Write a Great User Story
+o	Breaking a User Story Into Tasks
+o	I’m new at this User Story stuff and all I have is a hammer.
+
+Introduction to User Story Writing Questions:
+User stories can be thought of an “Agile” way of stating requirements.  Their format is often recognized as: 
+
+As a <user type>, I want to <function> so that <benefit>.
+
+The above links contain examples of these.
+
+Questions: Please type your answers into this document and save it in Trello.  Please also print a copy and bring it on homework due date.
+
+1.	The text in An Introduction to Software Engineering mentions “project life cycle” and “product life cycle.”  
+a.	(20 pts) Your team selected a project.  Describe your project with no more than two sentences each to the below questions.   
+i.	Why did your team choose the technologies it will use?
+We chose to build an app using Android Studio because 5 of us (Abby, Jason, Tony, Kasie and myself) have had experience using this tool. We’ll be using MySQL as well because Julian is familiar with this technology. As a team we’ll be learning how to incorporate Google Maps API, Facebook API and the built-in camera.
+ii.	What programming skills does your team need to improve to do the project?
+We need to get more comfortable with utilizing Git as a team. We will need to teach those who don’t know Android Studio about the tool, likewise with 
+iii.	What education goals will it address?
+We'll be relying on the planning process to help guide the direction of the project. This will help us develop a cohesive idea of how a software engineering team works together to complete a number of sprints.
+iv.	What artifacts, generally, do you wish to create with the project?
+I think I could contribute to the design aspects with some amount of strength. I'd also like to write some amount of code to get an idea of really developing within a team.
+ 
+b.	(20 pts) Next semester, another CS 3398 team may decide to use the end point of your project this semester as its starting point.  That is, it may elect to continue your project.    
+i.	What would they need to continue the project cycle?  What do you provide to encourage them to continue with your project?  Answer in no more than 5 sentences.
+The follow-up team would likely need access to our repository. To encourage them I'd include user stories and documentation noting the direction of the project. 
+
+ii.	What is the product that your team will produce this semester?  This question may not have a “right answer.”  It may be a discussion.   Use no more than 5 sentences.
+Our team will work to produce a working product at first. Once we get past that hurdle we may move towards developing more user intuitive features. Next semester the follow-up team would be in a better position to build upon a working product allowing them to fine-tune the product features to the evolving needs of the customer.
+
+2.	(15 pts) Consider the following hyperlink: A place we won’t forget.  Edit the text.  For example, change “I” to “we.”  Notice that the hyperlink goes away.  
+a)	Write a user story in the form that characterizes this behavior.
+As a user when I edit the text of a hyperlink it does not work.
+b)	Write a user story of the same form that describes a behavior where the link doesn’t go away when the display text is edited.
+As a user I want to edit the link text of a hyperlink without removing the hyperlink.
+c)	Write a user story that allows both behaviors.
+As a user I want the option to edit a hyperlink and repair the link.
+
+ 
+3.	(45 pts) User stories “strongly shift the focus from writing about features to discussing them. In fact, these discussions are more important than whatever text is written.”  Write 3 user stories that describe the end “product” of your project.   They should be stories that you will ask your team to consider using in the first sprint of the project.   For each story, write at least four tasks that need to be performed for the story.
+•	As a user I want to log into the app
+o	Add a user database
+o	Add Facebook API
+o	Add ability to edit profile (hide sensitive info)
+o	Add Gmail login option
+•	As a user I want to post an item I have found
+o	Enable built-in camera functionality
+o	Include Google Maps API
+o	Edit found item info
+o	Enable push notifications
+•	As a user I want to find an item I have lost
+o	Implement point system as a thanks for locating item
+o	Build a “lost” feed for browsing
+o	Write algorithm to sort and filter lost items
+o	Enable chat feature to allow for 2-way communication
+
